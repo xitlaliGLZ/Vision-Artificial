@@ -1,4 +1,4 @@
-Objetivo:Desarrollar y utilizar sistema de vision embebidos que incluyan que incluyan apredizajede maquinas que puedan ser aplicxadas en la diversidad de areas de aplicacion de sistemas de vision artificial 
+Objetivo: Desarrollar y utilizar sistema de visión embebidos que incluyan que incluyan aprendizaje maquinas que puedan ser aplicadas en la diversidad de áreas de aplicación de sistemas de visión artificial 
 
 Competencias específicas:
 • Comprender la arquitectura de un sistema de visión artificial y el procesamiento digital de imágenes.
